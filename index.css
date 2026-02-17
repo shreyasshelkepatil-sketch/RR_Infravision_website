@@ -9,7 +9,7 @@ html {
 }
 
 header {
-  background-color: #262626;
+  background-color: #ffffff;
 
   position: fixed;
   top: 0;
@@ -24,7 +24,7 @@ x li {
 }
 
 a {
-  color: white;
+  color: rgb(125, 119, 119);
   text-decoration: none;
 }
 
@@ -46,12 +46,10 @@ a {
   align-items: center;
 }
 .rr_navbar img {
-  margin-left: -30px;
-  position: absolute;
-  height: 199px;
-  width: 300px;
-  top: -60px;
-  /* border: 2px solid red; */
+  height: 60px;   /* control logo size */
+  width: auto;
+  margin-left: 0;
+  position: static;
 }
 .nav-branding {
   font-size: 2rem;
