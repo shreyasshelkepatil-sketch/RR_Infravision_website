@@ -101,7 +101,7 @@ a {
   margin: 5px auto;
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
-  background-color: white;
+  background-color: rgb(73, 63, 63);
 }
 
 .work_container {
